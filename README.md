@@ -14,7 +14,7 @@ This combination helps me approach software from different perspectives: impleme
 - **Frontend:** JavaScript, Vue.js, HTML, CSS
 - **Database:** MySQL, Postgresql
 - **Testing:** [tools and frameworks actually used]
-- **Cloud & Operations:** Google Cloud, Linux, [other tools actually used]
+- **Cloud & Operations:** Google Cloud Platform
 - **E-commerce:** Shopify
 
 ## Featured Projects

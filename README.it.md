@@ -14,7 +14,7 @@ Questa combinazione di competenze mi permette di affrontare lo sviluppo software
 - **Frontend:** JavaScript, Vue.js, HTML, CSS
 - **Database:** MySQL, Postgresql
 - **Testing:** [strumenti e framework effettivamente utilizzati]
-- **Cloud & Operations:** Google Cloud, Linux, [altri strumenti effettivamente utilizzati]
+- **Cloud & Operations:** Google Cloud Platform
 - **E-commerce:** Shopify
 
 ## Progetti in Evidenza
