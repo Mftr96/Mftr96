@@ -1,4 +1,4 @@
-# Hi, I'm a Backend / Full-stack Developer
+# Hi, I'm a Full-stack Developer
 
 [English](README.md) | [Italiano](README.it.md)
 

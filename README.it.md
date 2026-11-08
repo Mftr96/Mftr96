@@ -1,4 +1,4 @@
-# Ciao! Sono uno sviluppatore Backend / Full-stack
+# Ciao! Sono uno sviluppatore  Full-stack
 
 [English](README.md) | [Italiano](README.it.md)
 
