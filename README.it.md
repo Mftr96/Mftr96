@@ -13,7 +13,7 @@ Questa combinazione di competenze mi permette di affrontare lo sviluppo software
 - **Backend:** PHP, Laravel, REST API
 - **Frontend:** JavaScript, Vue.js, HTML, CSS
 - **Database:** MySQL, Postgresql
-- **Testing:** [strumenti e framework effettivamente utilizzati]
+- **Testing:** Playwright
 - **Cloud & Operations:** Google Cloud Platform
 - **E-commerce:** Shopify
 
@@ -21,8 +21,7 @@ Questa combinazione di competenze mi permette di affrontare lo sviluppo software
 
 - **Laravel CRM** — Applicazione backend sviluppata con Laravel.
 - **BoolBnB** — Applicazione web full-stack sviluppata con Vue.js e Laravel.
-- **API Testing Lab** — Progetto dedicato allo sviluppo di API e ai test automatizzati.
-- **Laravel Deployment Lab** — Progetto dedicato al deployment di applicazioni e alla configurazione degli ambienti.
+- ** Boolzapp ** web-app  in Vue.js come esercizio durante corso di programmazione Boolean.
 
 ## Oltre il Codice
 
