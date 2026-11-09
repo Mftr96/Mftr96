@@ -2,6 +2,8 @@
 
 [English](README.md) | [Italiano](README.it.md)
 
+![](https://komarev.com/ghpvc/?username=Mftr96&style=pixel)
+
 I'm a web developer with a background in PHP, Laravel, JavaScript, Vue.js and MySQL.
 
 I currently work across software quality assurance and IT operations, gaining hands-on experience in manual testing, API testing, test automation and troubleshooting.
